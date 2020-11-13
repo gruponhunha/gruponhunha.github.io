@@ -46,6 +46,15 @@ Colors:
 /******************************/
 /*     01. General Styles     */
 /******************************/
+.nav-link1:hover{
+	cursor: default;
+}
+.page_nome{
+	color: white;
+}
+.page_nome:hover{
+	cursor: default;
+}
 body,
 html {
     width: 100%;
